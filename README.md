@@ -4,7 +4,7 @@ This project uses Turtle library to recreate the Space Invaders game
 
 Its features are:
 
--aliens moves and fire at the player
+-aliens move and fire at the player
 
 -player can also move and fire
 
